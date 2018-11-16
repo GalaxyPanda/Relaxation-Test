@@ -1,0 +1,40 @@
+body{
+    background-color: rbga(255,255,255,255.5);
+    background-image: url(../michael-mroczek-440382-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.conductors{
+    background-color: #222222;
+    
+}
+
+.conductors h1{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    color: #E6DAC0;
+    font-size: 62px;
+}
+
+.Mi{
+    background-color:#1C5D99;
+    color: #E0FBFC;
+}
+.con{
+    width:100%; 
+    padding: 10px;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+#example1 {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.Ly{
+    background-color: #F46036 ;
+    color: #222222;
+}
