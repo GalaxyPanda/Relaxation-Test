@@ -1,0 +1,21 @@
+body{
+    background-color: rbga(255,255,255,255.5);
+    background-image: url(../michael-mroczek-440382-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.picture{
+ 
+
+}
+
+.Station{
+       background: url(../brigitta-schneiter-193760-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 25%;
+    color: white;
+    width: 100%;
+}
